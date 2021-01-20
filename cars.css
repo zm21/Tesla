@@ -1,0 +1,119 @@
+.specifications-card{
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.specifications-card-white{
+    color: white !important;
+    border-color: white !important;
+}
+
+.specifications-card h4{
+    text-align: center;
+    font-weight: bold;
+}
+
+.specifications-card p{
+    text-align: center;
+}
+
+.specifications-central-card{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.btn-order{
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.safety-block{
+    width: 100%;
+}
+
+.safety-text-block{
+    padding-top: 80px;
+}
+
+.safety-text-block h4{
+    margin-top: 0px !important;
+    font-weight: bold;
+}
+
+.safety-text-block p{
+    margin-bottom: 0px !important;
+}
+
+
+.safety-image-block{
+
+    background-color: #F4F4F4;
+    max-width: 100%;
+}
+.safety-image-block img{
+    background-color: #F4F4F4;
+}
+
+.specs-block{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    background-color: black !important;
+    font-size: 14px;
+}
+
+.specs-img-block {
+    display: flex;
+    align-items: center;
+}
+
+.bg-black{
+    background-color: black !important;
+}
+
+.block-spec h3{
+ color: white;
+ font-size: 32px;
+ font-weight: bold;
+}
+
+.white-btn{
+    margin: 10px;
+    font-weight: bold;
+    padding: 10px;
+    color:white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+
+.gray-btn{
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    color:white;
+    background-color: transparent;
+    border: 2px solid #393C41;
+    border-radius: 25px;
+}
+
+.speclist{
+    float: left;
+    color: white;
+}
+
+.speclist hr{
+    float: left;
+    margin-bottom: 0px;
+    height: 2px;
+    border: none;
+    background-color: white;
+    width: 30px;
+}
+
+.speclist h4{
+    font-weight: bold;
+}

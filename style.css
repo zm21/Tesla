@@ -1,0 +1,141 @@
+body{
+    font-family: 'Roboto', sans-serif !important;
+    margin: 0px;
+}
+
+.top-block{
+    z-index: 1;
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    background-color: white !important;
+    color: black !important;
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+}
+
+h1{
+    font-weight: bold !important;
+}
+
+.section-model-s{
+    width: 100%;
+    height: 100vh !important;
+    background-image: url(images/model-s.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.section-model-3{
+    width: 100%;
+    height: 100vh !important;
+    background-image: url(images/model-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.section-model-x{
+    width: 100%;
+    height: 100vh !important;
+    background-image: url(images/model-x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.section-model-y{
+    width: 100%;
+    height: 100vh !important;
+    background-image: url(images/model-y.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.section-cybertruck{
+    width: 100%;
+    height: 100vh !important;
+    background-image: url(images/cybertruck.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.cybertruck-btn{
+    border-radius: 0 !important;
+    border: 4px solid white !important;
+    background: transparent !important;
+    color:  white;
+    font-weight: bold;
+}
+
+.section-end{
+    width: 100%;
+    height: 100vh !important;
+    background-image: url(images/Desktop-Accessories.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.tesla-list{
+    color: #000000;
+}
+
+.tesla-list li a{
+    font-weight: bold;
+    cursor: pointer;
+    color: #000000;
+}
+
+.model-price-card{
+    display: flex;
+    justify-content: center;
+    color: #393C41;
+    text-align: center;
+}
+
+.model-price-card p{
+    color: #5C5E62;
+}
+
+.model-price-card h2{
+    font-weight: bolder !important;
+}
+
+.card-buttons{
+    display: flex;
+    align-items: flex-end;
+    bottom: 0;
+    width: 100%;
+    height: 70vh;
+}
+
+.myBtnOrder{
+    width: 75% !important;
+    margin: 15px;
+}
+
+.centraldiv{
+    text-align: center;
+    padding: 20px;
+}
+
+.myCentrBytton{
+    width: 300px;
+}
